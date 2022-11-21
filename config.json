@@ -1,0 +1,6 @@
+{"key": "key",
+ "sec": "seecret",
+ "tickers": [
+    {"ticker": "ETCUSDT","amount": 6.0,"leverage":75, "precious": 2,"sl": 0.005,"tf": "1m"}
+    ]
+}
